@@ -1,0 +1,38 @@
+project:
+  type: website
+
+book:
+  title: "test"
+  author: "Jane Doe"
+  date: "10/1/2022"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 4
+    page-layout: full
+  pdf:
+    documentclass: scrreprt
+
+
+
+# project:
+#   type: website
+
+# format:
+#   html:
+#     theme:
+#       - cosmo
+#       - custom.scss
+#     css: styles.css
+#     toc: true
+#     toc-depth: 4
+#     page-layout: full

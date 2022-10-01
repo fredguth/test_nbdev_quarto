@@ -1,0 +1,16 @@
+{
+  "index.qmd": {
+    "index.html": "92f63459",
+    "index.tex": "392f58f6"
+  },
+  "intro.qmd": {
+    "intro.html": "80fa7d06",
+    "intro.tex": "a9f3cbdc"
+  },
+  "summary.qmd": {
+    "summary.html": "329455fb"
+  },
+  "references.qmd": {
+    "references.html": "ee105a01"
+  }
+}
